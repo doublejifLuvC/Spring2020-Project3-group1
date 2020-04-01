@@ -27,7 +27,7 @@ In this project, we created a classification engine for facial emotion recogniti
 + Zhang, Zhiyuan: Designed the pipline for reading data, feature extraction and exectued the model. Constructed different models incuding GBM, XGBoost, KNN, Random Forest, Logistic Regression, SVM(linear, rgb, poly kernal) ,tuning the hyperparameter, cross validation and integrated the choosen model into main file. Prepared for the presentation(PPT and recording Video) Completed the project summary.
 + Kangli Feng: Conducted images cropping  to remove redundant image information such as background, clothes and hair. Converted processed data into h5 file for Residual Network model input. Built ResNet50 model with identity blocks and convolutional blocks. Extracted features from 78 fiducial points of each image by calculating pairwise distances for densely-connected Neural Networks input. Built three different densely-connected Neural Networks and achieved average test accuracy of 53%. Combined baseline model and advanced model into `Main.ipynb`.
 + Li Jia: Tuning hyperparameter for XGBoost
-+ Blum, Jacquelyn: No contribution for the project
++ Blum, Jacquelyn:Participated in meeting and project, github arrangement.
 + Hongshan Lin: Tried different classfication model such as XGBoost, Random Forest, and GBM. Finally choose GBM as final model.Tuned the baseline model with different parameter to improve the accuracy from 43.8% to 45.5%. Edit Readme and final main notebook.
 
 
