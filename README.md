@@ -10,7 +10,7 @@ Term: Spring 2020
 
 + Team Group 1
 
-+ **Team Members**: 
++ Team Members: 
     +  Zhang, Zhiyuan zz2677@columbia.edu
     + Feng, Kangli kf2616@columbia.edu
     + Blum, Jacquelyn jeb2266@columbia.edu
@@ -24,7 +24,7 @@ In this project, we created a classification engine for facial emotion recogniti
 We were provided with a set of 2,500 facial images with 22 different emontions.The project purpose is to improve the accuracy and reduce the computation time of our model.For the features extraction, we compuated pairwise distances between total uniq 78 fiducial points with 3003 features. For model training: we first select GBM as our baseline model with default parmater setting and 44% accuracy, then we tuned our model by using different parametrs and cross validation to get our improved baseline model with 48% accuracy. We also tried other models like XGBOOST, Random Forest, Neural Network, Logistic Regression and Decision Tree to compare with our baseline model GBM, finally we decided to use [xxxxxxx] as our final model with [xxxxxx] accuracy. 
 
 	
-**Contribution statement**: ([default](doc/a_note_on_contributions.md)) All team members contributed equally in all stages of this project. All team members approve our work presented in this GitHub repository including this contributions statement.
+**Contribution statement**: 
 
 Zhang, Zhiyuan:
 
