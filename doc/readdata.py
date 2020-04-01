@@ -54,7 +54,6 @@ def read_points():
 
 points = read_points()
 labels = read_labels()
-
 ### train test split
 X_points_train, X_points_test, y_train, y_test = train_test_split(points,labels,test_size=0.2, random_state=666)
 
@@ -78,11 +77,19 @@ print("Feature Extraction time on test set:","%s seconds"%(feature_test_end - fe
 
 
 
+### predict label
+predict_DATA_PATH = "../data/test_set"
+POINTS_FOLDER = os.path.join(predict_DATA_PATH, "points")
 
+predict_points = read_points()
 
-
-
-
+predict_start = time.time()
+X_predict = np.zeros((predict_points.shape[0], 3003))
+for i in range(predict_points.shape[0]):
+    current = predict_points[i]
+    X_predict[i,] = pdist(current)
+predict_end = time.time()
+print("Feature Extraction time on test set:","%s seconds"%(predict_end - predict_start))
 
 
 
