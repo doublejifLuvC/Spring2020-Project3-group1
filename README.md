@@ -25,7 +25,7 @@ We were provided with a set of 2,500 facial images with 22 different emontions.T
 
 	
 **Contribution statement**: 
-+ Zhang, Zhiyuan:
++ Zhang, Zhiyuan: I am sb
 + Kangli Feng:
 + Li Jia:
 + Blum, Jacquelyn:
