@@ -25,16 +25,11 @@ We were provided with a set of 2,500 facial images with 22 different emontions.T
 
 	
 **Contribution statement**: 
-
-Zhang, Zhiyuan:
-
-Li Jia:
-
-Blum, Jacquelyn:
-
-Feng, Kangli：
-
-Hongshan Lin: Tried different classfication model such as XGBoost, Random Forest, and GBM. Finally choose GBM as final model.Tuned the baseline model with different parameter to improve the accuracy from 44% to 48%. Edit Readme and final main notebook.
++ **Zhang, Zhiyuan**:
++ **Kangli Feng**:
++ **Li Jia**:
++ **Blum, Jacquelyn**:
++ **Hongshan Lin**: Tried different classfication model such as XGBoost, Random Forest, and GBM. Finally choose GBM as final model.Tuned the baseline model with different parameter to improve the accuracy from 44% to 48%. Edit Readme and final main notebook.
 
 
 Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
