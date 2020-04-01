@@ -25,11 +25,10 @@ We were provided with a set of 2,500 facial images with 22 different emontions.T
 
 	
 **Contribution statement**: 
-+ Zhang, Zhiyuan: 
++ Zhang, Zhiyuan: Designed the pipline for reading data, feature extraction and exectued the model. Constructed different models incuding GBM, XGBoost, KNN, Random Forest, Logistic Regression, SVM(linear, rgb, poly kernal) ,tuning the hyperparameter, cross validation and integrated the choosen model into main file. Prepared for the presentation(PPT and recording Video)
 + Kangli Feng: Conducted images cropping  to remove redundant image information such as background, clothes and hair. Converted processed data into h5 file for Residual Network model input. Built ResNet50 model with identity blocks and convolutional blocks. Extracted features from 78 fiducial points of each image by calculating pairwise distances for densely-connected Neural Networks input. Built three different densely-connected Neural Networks and achieved average test accuracy of 52%.
-
-+ Li Jia:
-+ Blum, Jacquelyn:
++ Li Jia: Tuning hyperparameter for XGBoost
++ Blum, Jacquelyn: No contribution for the project
 + Hongshan Lin: Tried different classfication model such as XGBoost, Random Forest, and GBM. Finally choose GBM as final model.Tuned the baseline model with different parameter to improve the accuracy from 43.8% to 45.5%. Edit Readme and final main notebook.
 
 
