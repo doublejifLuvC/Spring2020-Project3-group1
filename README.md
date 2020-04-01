@@ -8,13 +8,14 @@ Term: Spring 2020
 
 
 
-+ Team ## Group 1
++ Team Group 1
+
 + Team members
-+      1. Zhang, Zhiyuan zz2677@columbia.edu
-+      2. Blum, Jacquelyn jeb2266@columbia.edu
-+      3. Feng, Kangli kf2616@columbia.edu
-+      4. Li, Jia jl5520@columbia.edu
-+      5. Lin, Hongshan hl3353@columbia.edu
+      1. Zhang, Zhiyuan zz2677@columbia.edu
+      2. Blum, Jacquelyn jeb2266@columbia.edu
+      3. Feng, Kangli kf2616@columbia.edu
+      4. Li, Jia jl5520@columbia.edu
+      5. Lin, Hongshan hl3353@columbia.edu
  
  
 + Project summary:
@@ -32,7 +33,7 @@ Blum, Jacquelyn:
 
 Feng, Kangli：
 
-+Hongshan Lin: Tried different classfication model such as XGBoost, Random Forest, and GBM. Finally choose GBM as final model.Tuned the baseline model with different parameter to improve the accuracy from 44% to 48%. Edit Readme and final main notebook.
+Hongshan Lin: Tried different classfication model such as XGBoost, Random Forest, and GBM. Finally choose GBM as final model.Tuned the baseline model with different parameter to improve the accuracy from 44% to 48%. Edit Readme and final main notebook.
 
 
 Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
