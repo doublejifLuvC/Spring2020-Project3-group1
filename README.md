@@ -10,17 +10,12 @@ Term: Spring 2020
 
 + Team Group 1
 
-+ Team members  
-
-      1. Zhang, Zhiyuan zz2677@columbia.edu
-      
-      2. Blum, Jacquelyn jeb2266@columbia.edu
-      
-      3. Feng, Kangli kf2616@columbia.edu
-      
-      4. Li, Jia jl5520@columbia.edu
-      
-      5. Lin, Hongshan hl3353@columbia.edu
++ **Team Members**: 
+    +  Zhang, Zhiyuan zz2677@columbia.edu
+    + Feng, Kangli kf2616@columbia.edu
+    + Blum, Jacquelyn jeb2266@columbia.edu
+    + Li, Jia jl5520@columbia.edu
+    + Lin, Hongshan hl3353@columbia.edu
  
  
 + Project summary:  
