@@ -14,7 +14,7 @@ Term: Spring 2020
     +  Zhang, Zhiyuan zz2677@columbia.edu
     + Feng, Kangli kf2616@columbia.edu
     + Blum, Jacquelyn jeb2266@columbia.edu
-    + Li, Jia jl5520@columbia.edu
+    + Li, Jia triblejif5520@gmail.com
     + Lin, Hongshan hl3353@columbia.edu
  
  
